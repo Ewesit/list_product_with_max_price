@@ -11,7 +11,7 @@ def find_highest_priced_product(products):
 products = [
     {'name': 'Rice', 'price': 100},
     {'name': 'Sugar', 'price': 200},
-    {'name': 'Cooking oil', 'price': 150},
+    {'name': 'Cooking oil', 'price': 250},
     {'name': 'Unga', 'price': 200}
 ]
 highest_priced_product = find_highest_priced_product(products)
